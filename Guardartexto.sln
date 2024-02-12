@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guardartexto", "Guardartexto.csproj", "{FBFEE905-B7ED-48C5-AFEF-99105EA83392}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFEE905-B7ED-48C5-AFEF-99105EA83392}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFEE905-B7ED-48C5-AFEF-99105EA83392}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFEE905-B7ED-48C5-AFEF-99105EA83392}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFEE905-B7ED-48C5-AFEF-99105EA83392}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8CCB5FA-210C-4C81-B9BF-DBE639A938B4}
+	EndGlobalSection
+EndGlobal
